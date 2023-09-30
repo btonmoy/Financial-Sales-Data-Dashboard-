@@ -1,0 +1,19 @@
+Very Basic Dashboard Project Details on Sales.
+
+Project: Financial Sales Data Analyst & Dashboard Create.
+
+Object: 
+
+1. The first visualization we want to see, how much has been sold according to segment.
+
+2. Show the visualization of how many Units have been sold according to product.
+
+3. We want see Discunt visualization according to product.
+
+4. How much profit has been by product?Show the visualization.
+
+5. We want see visualization gross sales according to segment.
+
+We added year on slicer for the check to specific data  according to year like(2018, 2019....) on the dashboard to the right corner side.Also dashboard top left side we are showing total gross sales, sales, profit and units sold use by card.
+
+Project Collection From ( Basic TechConcepts By Saloni YouTube Channel ) 
